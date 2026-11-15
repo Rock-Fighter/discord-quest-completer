@@ -1,39 +1,43 @@
 <div align="center">
 
-# 🎮 Discord Quest Completer — Rock-Quest
-
-**Complete any Discord playtime quest and earn Discord Orbs in 15 minutes — without downloading huge 100 GB games.**
-
-[![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?logo=windows&logoColor=white&style=for-the-badge)](https://quest.rfbd.shop)
-[![Discord Community](https://img.shields.io/badge/Discord-Support%20Server-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/ndMRNheQHb)
-[![GitHub Release](https://img.shields.io/github/v/release/rifat836/discord-quest-completer?logo=github&logoColor=white&style=for-the-badge&label=Release&color=5865F2)](../../releases/latest)
-[![Version: 1.0.3](https://img.shields.io/badge/Version-v1.0.3-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://quest.rfbd.shop)
-[![License: MIT](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)](LICENSE)
-[![Status: Undetected](https://img.shields.io/badge/Status-100%25%20Undetected%20%26%20Safe-brightgreen?style=for-the-badge)](https://quest.rfbd.shop)
-
-<br/>
-
-<p align="center">
-  <a href="https://quest.rfbd.shop/update/Rock-Quest_1.0.3_x64-setup.exe">
-    <img src="https://img.shields.io/badge/📥%20Download%20Installer%20(v1.0.3)-5865F2?style=for-the-badge&logo=windows&logoColor=white" height="42" alt="Download Rock-Quest" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/ndMRNheQHb">
-    <img src="https://img.shields.io/badge/💬%20Discord%20Support-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="42" alt="Discord Support Server" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="../../releases/latest">
-    <img src="https://img.shields.io/badge/🏷️%20GitHub%20Releases-24292e?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub Releases" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://quest.rfbd.shop/quests.php">
-    <img src="https://img.shields.io/badge/🌐%20View%20Live%20Discord%20Quests-1e1f22?style=for-the-badge&logo=googlechrome&logoColor=white" height="42" alt="View Live Quests" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://quest.rfbd.shop">
-    <img src="https://img.shields.io/badge/⚡%20Official%20Website-2b2d31?style=for-the-badge" height="42" alt="Official Website" />
+    <img src="https://quest.rfbd.shop/assets/uploads/Rock-Quest_1794649014_72b51426.webp" alt="Rock-Quest Logo" width="115" height="115" style="border-radius:24px; margin-bottom:12px;" />
   </a>
-</p>
+
+  <h1>Discord Quest Completer — Rock-Quest</h1>
+
+  <p><strong>Complete any Discord playtime quest and earn Discord Orbs in 15 minutes — without downloading huge 100 GB games.</strong></p>
+
+  [![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?logo=windows&logoColor=white&style=for-the-badge)](https://quest.rfbd.shop)
+  [![Discord Community](https://img.shields.io/badge/Discord-Support%20Server-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/ndMRNheQHb)
+  [![Release](https://img.shields.io/badge/Release-v1.0.3-5865F2?logo=github&logoColor=white&style=for-the-badge)](../../releases/latest)
+  [![Version: 1.0.3](https://img.shields.io/badge/Version-v1.0.3-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://quest.rfbd.shop)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)](LICENSE)
+  [![Status: Undetected](https://img.shields.io/badge/Status-100%25%20Undetected%20%26%20Safe-brightgreen?style=for-the-badge)](https://quest.rfbd.shop)
+
+  <br/>
+
+  <p align="center">
+    <a href="https://quest.rfbd.shop/update/Rock-Quest_1.0.3_x64-setup.exe">
+      <img src="https://img.shields.io/badge/📥%20Download%20Installer%20(v1.0.3)-5865F2?style=for-the-badge&logo=windows&logoColor=white" height="42" alt="Download Rock-Quest" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://discord.gg/ndMRNheQHb">
+      <img src="https://img.shields.io/badge/💬%20Discord%20Support-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="42" alt="Discord Support Server" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="../../releases/latest">
+      <img src="https://img.shields.io/badge/🏷️%20GitHub%20Releases-24292e?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub Releases" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://quest.rfbd.shop/quests.php">
+      <img src="https://img.shields.io/badge/🌐%20View%20Live%20Discord%20Quests-1e1f22?style=for-the-badge&logo=googlechrome&logoColor=white" height="42" alt="View Live Quests" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://quest.rfbd.shop">
+      <img src="https://img.shields.io/badge/⚡%20Official%20Website-2b2d31?style=for-the-badge" height="42" alt="Official Website" />
+    </a>
+  </p>
 
 </div>
 
@@ -53,13 +57,35 @@ Downloading full 80GB–120GB games just to get a 15-minute reward is a massive 
 
 * 🚀 **Zero Game Downloads:** Fulfill Discord playtime quests without downloading full multi-gigabyte games.
 * ⏱️ **15-Minute Auto-Completion:** Accurate progress tracking with live session timer and auto-complete checks.
+* 💾 **Session & Quest Persistence:** Your quest progress and completed statuses persist across app restarts.
+* 🔔 **Windows Desktop Notifications:** Automatically triggers a native Windows notification when your quest timer completes (default: 18 min).
 * 🌐 **Live Quests Hub:** Built-in Quests browser that auto-synchronizes active promotional Discord quests directly from the API.
 * 🛡️ **100% Safe & User-Mode:** Runs in standard Windows user space. No kernel drivers, no administrator rights, and no modification of Discord files.
 * ⚡ **Ultra-Lightweight:** Uses less than 12 MB of RAM and ~0.1% CPU.
 
 ---
 
-## 📸 Active Quests (Nov 15,2026)
+## 🖼️ Application Screenshots
+
+<div align="center">
+
+### 🎯 Live Active Quests Browser
+*Real-time synced Discord quests with live progress, countdown timers, and 1-click completion:*
+<br/><br/>
+<img src="https://quest.rfbd.shop/assets/uploads/quests.webp" alt="Rock-Quest Live Quests Screen" width="850" style="border-radius:10px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
+
+<br/><br/>
+
+### 🕹️ Verified Game Launcher & Simulation
+*Simulate any game process cleanly in user-mode space to trigger Discord playtime detection:*
+<br/><br/>
+<img src="https://quest.rfbd.shop/assets/uploads/games.webp" alt="Rock-Quest Game Launcher Screen" width="850" style="border-radius:10px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
+
+</div>
+
+---
+
+## <img src="https://quest.rfbd.shop/assets/gamepad.png" width="26" height="26" valign="middle" /> Supported Active Quests
 
 Rock-Quest comes with pre-configured verified game signatures for all promotional Discord quests:
 
@@ -117,7 +143,7 @@ Browser extensions and code injection might seem like easy solutions, but they c
 Rock-Quest is designed with a security-first approach, without requiring risky code injection, Discord client modifications, or browser extensions. You get a cleaner, more convenient quest experience without unnecessarily exposing your account to these risks.
 
 ### Can Rock-Quest get my Discord account banned?
-Rock-Quest is designed to avoid risky account modifications, code injection, self-botting, and unauthorized automation.We Always use supported authentication methods and follow Discord's Terms of Service.
+Rock-Quest is designed to avoid risky account modifications, code injection, self-botting, and unauthorized automation. We always use supported authentication methods and follow Discord's Terms of Service.
 
 ---
 
