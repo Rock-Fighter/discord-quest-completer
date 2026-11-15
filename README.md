@@ -87,16 +87,14 @@ Downloading full 80GB–120GB games just to get a 15-minute reward is a massive 
 
 ---
 
-## <a href="https://quest.rfbd.shop"><img src="https://quest.rfbd.shop/assets/gamepad.png" width="26" height="26" valign="middle" alt="Gamepad Icon" /></a> Supported Active Quests
+## <a href="https://quest.rfbd.shop"><img src="https://quest.rfbd.shop/assets/gamepad.png" width="26" height="26" valign="middle" alt="Gamepad Icon" /></a> Active Quests (Nov 15,2026)
 
 Rock-Quest comes with verified game signatures for all promotional Discord quests:
 
-### 🎯 Active Quests (Nov 15,2026)
 
 | Quest Title | Target Game | Reward | Target Time |
 | :--- | :--- | :--- | :--- |
 | **Honkai: Star Rail Quest** | `Honkai: Star Rail` | 700 Orbs & V4.7 Bundle | 15 Min |
-| **Genshin Impact Quest** | `Genshin Impact` | 30 Primogems & Special Pack | 15 Min |
 | **Marvel Rivals Quest** | `Marvel Rivals` | Exclusive Quest Spray & Skin | 15 Min |
 | **Asphalt Legends Quest** | `Asphalt Legends Unite` | 700 Orbs | 15 Min |
 | **World of Warcraft Quest** | `World of Warcraft` | 700 Orbs | 15 Min |
