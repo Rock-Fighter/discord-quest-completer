@@ -5,15 +5,25 @@
 **Complete any Discord playtime quest and earn Discord Orbs in 15 minutes — without downloading huge 100 GB games.**
 
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?logo=windows&logoColor=white&style=for-the-badge)](https://quest.rfbd.shop)
-[![Version: 1.0.3](https://img.shields.io/badge/Release-v1.0.3-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://quest.rfbd.shop)
+[![Discord Community](https://img.shields.io/badge/Discord-Support%20Server-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/ndMRNheQHb)
+[![GitHub Release](https://img.shields.io/github/v/release/rifat836/discord-quest-completer?logo=github&logoColor=white&style=for-the-badge&label=Release&color=5865F2)](../../releases/latest)
+[![Version: 1.0.3](https://img.shields.io/badge/Version-v1.0.3-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://quest.rfbd.shop)
 [![License: MIT](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)](LICENSE)
 [![Status: Undetected](https://img.shields.io/badge/Status-100%25%20Undetected%20%26%20Safe-brightgreen?style=for-the-badge)](https://quest.rfbd.shop)
 
 <br/>
 
 <p align="center">
-  <a href="[https://quest.rfbd.shop/](https://quest.rfbd.shop/update/Rock-Quest_1.0.3_x64-setup.exe)">
-    <img src="https://img.shields.io/badge/📥%20Download%20Rock--Quest%20(v1.0.3)-5865F2?style=for-the-badge&logo=windows&logoColor=white" height="42" alt="Download Rock-Quest" />
+  <a href="https://quest.rfbd.shop/update/Rock-Quest_1.0.3_x64-setup.exe">
+    <img src="https://img.shields.io/badge/📥%20Download%20Installer%20(v1.0.3)-5865F2?style=for-the-badge&logo=windows&logoColor=white" height="42" alt="Download Rock-Quest" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/ndMRNheQHb">
+    <img src="https://img.shields.io/badge/💬%20Discord%20Support-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="42" alt="Discord Support Server" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="../../releases/latest">
+    <img src="https://img.shields.io/badge/🏷️%20GitHub%20Releases-24292e?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub Releases" />
   </a>
   &nbsp;&nbsp;
   <a href="https://quest.rfbd.shop/quests.php">
@@ -31,7 +41,7 @@
 
 ## ⚡ Why Rock-Quest?
 
-Discord regularly releases promotional quests (Honkai: Star Rail, Marvel Rivals, Asphalt Legends, World of Warcraft, Roblox, etc.) that reward **Discord Orbs**, exclusive avatar decorations, or in-game codes when you play the game on desktop for 15 minutes.
+Discord regularly releases promotional playtime quests that reward **Discord Orbs**, exclusive avatar decorations, or in-game codes when you play the game on desktop for 15 minutes.
 
 Downloading full 80GB–120GB games just to get a 15-minute reward is a massive waste of time, bandwidth, and storage.
 
@@ -43,14 +53,13 @@ Downloading full 80GB–120GB games just to get a 15-minute reward is a massive 
 
 * 🚀 **Zero Game Downloads:** Fulfill Discord playtime quests without downloading full multi-gigabyte games.
 * ⏱️ **15-Minute Auto-Completion:** Accurate progress tracking with live session timer and auto-complete checks.
-* 🔔 **Windows Desktop Notifications:** Automatically pops a native Windows notification when your quest timer completes (configurable default: 18 min).
 * 🌐 **Live Quests Hub:** Built-in Quests browser that auto-synchronizes active promotional Discord quests directly from the API.
 * 🛡️ **100% Safe & User-Mode:** Runs in standard Windows user space. No kernel drivers, no administrator rights, and no modification of Discord files.
-* ⚡ **Ultra-Lightweight:** Uses less than 15 MB of RAM and ~0% CPU.
+* ⚡ **Ultra-Lightweight:** Uses less than 12 MB of RAM and ~0.1% CPU.
 
 ---
 
-## 📸 Supported Active Quests
+## 📸 Active Quests (Nov 15,2026)
 
 Rock-Quest comes with pre-configured verified game signatures for all promotional Discord quests:
 
@@ -74,8 +83,9 @@ Rock-Quest comes with pre-configured verified game signatures for all promotiona
 ## 🚀 Quick Start Guide
 
 ### 1. Download & Install
-Download the latest Windows installer:
-* **[Download Rock-Quest Installer]([https://quest.rfbd.shop/](https://quest.rfbd.shop/update/Rock-Quest_1.0.3_x64-setup.exe))**
+Download the Windows installer (v1.0.3):
+* 🔗 **[Direct Download: Rock-Quest_1.0.3_x64-setup.exe](https://quest.rfbd.shop/update/Rock-Quest_1.0.3_x64-setup.exe)**
+* 📦 **[Download from GitHub Releases](../../releases/latest)**
 
 ### 2. Choose Your Quest
 * Open **Rock-Quest**.
@@ -99,10 +109,24 @@ Because Rock-Quest is an independent, freshly compiled application:
 
 ---
 
-## 🌐 Official Links
+## 🔒 Security & Frequently Asked Questions
 
-* 🌍 **Website:** [https://quest.rfbd.shop](https://quest.rfbd.shop)
-* 📜 **Live Quests List:** [https://quest.rfbd.shop/quests.php](https://quest.rfbd.shop/quests.php)
+### Why use Rock-Quest instead of easy browser extensions or code injection?
+Browser extensions and code injection might seem like easy solutions, but they can introduce serious security risks to your Discord account that results in an account BAN. They may require access to your browser sessions, Discord data, or account tokens.
+
+Rock-Quest is designed with a security-first approach, without requiring risky code injection, Discord client modifications, or browser extensions. You get a cleaner, more convenient quest experience without unnecessarily exposing your account to these risks.
+
+### Can Rock-Quest get my Discord account banned?
+Rock-Quest is designed to avoid risky account modifications, code injection, self-botting, and unauthorized automation.We Always use supported authentication methods and follow Discord's Terms of Service.
+
+---
+
+## 🌐 Official Links & Support
+
+* 💬 **Discord Support & Community:** [Join our Discord Server (discord.gg/ndMRNheQHb)](https://discord.gg/ndMRNheQHb)
+* 🌍 **Official Website:** [https://quest.rfbd.shop](https://quest.rfbd.shop)
+* 📜 **Live Quests Hub:** [https://quest.rfbd.shop/quests.php](https://quest.rfbd.shop/quests.php)
+* 📦 **Releases:** [GitHub Releases](../../releases/latest)
 
 ---
 
