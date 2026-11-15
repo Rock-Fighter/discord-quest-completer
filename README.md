@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://quest.rfbd.shop">
-    <img src="https://quest.rfbd.shop/assets/uploads/Rock-Quest.webp" alt="Rock-Quest Logo" width="115" height="115" style="border-radius:24px; margin-bottom:12px;" />
+    <img src="https://quest.rfbd.shop/assets/uploads/Rock-Quest.png" alt="Rock-Quest Logo" width="140" height="140" style="border-radius:28px; margin-bottom:14px;" />
   </a>
 
   <h1>Discord Quest Completer — Rock-Quest</h1>
@@ -69,17 +69,17 @@ Downloading full 80GB–120GB games just to get a 15-minute reward is a massive 
 
 <div align="center">
 
-### 🎯 Live Active Quests Browser
-*Real-time synced Discord quests with live progress, countdown timers, and 1-click completion:*
-<br/><br/>
-<img src="https://quest.rfbd.shop/assets/uploads/quests.webp" alt="Rock-Quest Live Quests Screen" width="850" style="border-radius:10px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
-
-<br/><br/>
-
 ### 🕹️ Verified Game Launcher & Simulation
 *Simulate any game process cleanly in user-mode space to trigger Discord playtime detection:*
 <br/><br/>
 <img src="https://quest.rfbd.shop/assets/uploads/games.webp" alt="Rock-Quest Game Launcher Screen" width="850" style="border-radius:10px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
+
+<br/><br/>
+
+### 🎯 Live Active Quests Browser
+*Real-time synced Discord quests with live progress, countdown timers, and 1-click completion:*
+<br/><br/>
+<img src="https://quest.rfbd.shop/assets/uploads/quests.webp" alt="Rock-Quest Live Quests Screen" width="850" style="border-radius:10px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
 
 </div>
 
@@ -153,6 +153,13 @@ Rock-Quest is designed to avoid risky account modifications, code injection, sel
 * 🌍 **Official Website:** [https://quest.rfbd.shop](https://quest.rfbd.shop)
 * 📜 **Live Quests Hub:** [https://quest.rfbd.shop/quests.php](https://quest.rfbd.shop/quests.php)
 * 📦 **Releases:** [GitHub Releases](../../releases/latest)
+
+---
+
+<div align="center">
+  <img src="https://quest.rfbd.shop/assets/gamepad.png" alt="Rock-Quest Game Controller Artwork" width="180" style="margin-bottom: 12px; filter: drop-shadow(0px 8px 20px rgba(88, 101, 242, 0.35));" />
+  <p><strong>Powering safe, fast, and automated Discord Quest completion.</strong></p>
+</div>
 
 ---
 
