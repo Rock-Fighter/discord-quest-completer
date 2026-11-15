@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://quest.rfbd.shop">
-    <img src="https://quest.rfbd.shop/assets/uploads/Rock-Quest_1794649014_72b51426.webp" alt="Rock-Quest Logo" width="115" height="115" style="border-radius:24px; margin-bottom:12px;" />
+    <img src="https://quest.rfbd.shop/assets/uploads/Rock-Quest.webp" alt="Rock-Quest Logo" width="115" height="115" style="border-radius:24px; margin-bottom:12px;" />
   </a>
 
   <h1>Discord Quest Completer — Rock-Quest</h1>
